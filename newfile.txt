@@ -4,3 +4,7 @@ Look at me!
 This line was added from my personal, broken MacBook Pro :| 
 This change was made from an RIT iMac
 Chinese food is pretty good
+
+
+ADDITIONS FROM NEWBRANCH:
+hi :)
